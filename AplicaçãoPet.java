@@ -1,6 +1,6 @@
 package Encapsulamento;
 
-public class Casa extends Pet {
+public class AplicacaoPet extends Pet {
 
 	public static void main(String[] args) {
 		Pet c1 = new Pet();
